@@ -1,0 +1,13 @@
+#body {
+    font-family: 'Inconsolata', ;
+    font-size: 16px;
+    color: #2300d1;
+    background-color: #62007a
+}
+
+/** HEADER **/
+#header-nav {
+    background-color: #2300d1;
+    border-radius: 0;
+    border: 0;
+}
